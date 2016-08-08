@@ -1,4 +1,4 @@
-# Movie_Trailer_Website #aiyyo
+# Movie_Trailer_Website 
 MOVIE TRAILER WEBSITE PROJECT
 
 WHAT THE PROJECT IS ABOUT?
@@ -7,7 +7,7 @@ The Movie Trailer Website project is a python program build for viewing the stor
 FILES IN THE Movie_Trailer_Website Repository
  1) media.py  
  2) entertainment_center.py  
- 3) fresh_tomatoes.py
+ 3) fresh_tomatoes.py can i love you too
  
  HOW TO RUN THE PROJECT 
  Make sure all the three files are under the same folder and run the entertainment_center.py file.
